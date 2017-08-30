@@ -1,0 +1,19 @@
+{
+  "name": "Disable Ctrl+Q",
+  "description": "Disable the Ctrl+Q shortcut",
+  "version": "0.1",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },  
+  "commands": {
+    "toggle": {
+      "suggested_key": {
+        "default": "Ctrl+Q",
+        "mac": "MacCtrl+Q",
+        "linux": "Ctrl+Q"
+      },
+      "description": "Map Ctrl+Q to the toggle command"
+    }
+  }
+}
