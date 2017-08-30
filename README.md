@@ -6,4 +6,4 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1325692
 
 ## Available for Firefox
 
-[![Mozilla Add-Ons](https://raw.githubusercontent.com/loganmarchione/disable-ctrl-q/master/icon_firefox_amo.png)]()
+[![Mozilla Add-Ons](https://raw.githubusercontent.com/loganmarchione/disable-ctrl-q/master/icon_firefox_amo.png)](https://addons.mozilla.org/en-US/firefox/addon/disable-ctrl-q/)
