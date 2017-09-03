@@ -16,7 +16,7 @@
     "toggle": {
       "suggested_key": {
         "default": "Ctrl+Q",
-        "mac": "MacCtrl+Q",
+        "mac": "Ctrl+Q",
         "linux": "Ctrl+Q"
       },
       "description": "Map Ctrl+Q to the toggle command"
