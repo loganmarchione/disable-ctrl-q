@@ -1,7 +1,7 @@
 # Disable Ctrl+Q
 WebExtension that disables Ctrl+Q in Firefox  
     
-For now, only works on Windows (haven't tested on Mac). Doesn't work on Linux until this bug is addressed.  
+Only works on Windows and MacOS. Doesn't work on Linux until this bug is addressed.  
 https://bugzilla.mozilla.org/show_bug.cgi?id=1325692  
 
 ## Available for Firefox
