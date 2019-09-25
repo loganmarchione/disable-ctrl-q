@@ -1,3 +1,5 @@
+# This extension is no longer maintained.
+
 # Disable Ctrl+Q
 WebExtension that disables Ctrl+Q in Firefox  
     
