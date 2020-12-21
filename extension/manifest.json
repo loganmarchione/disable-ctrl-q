@@ -1,7 +1,7 @@
 {
   "name": "Disable Ctrl+Q",
   "description": "Disable the Ctrl+Q shortcut",
-  "version": "0.3",
+  "version": "0.4",
   "manifest_version": 2,
   "icons": {
     "32": "icon32.png",
